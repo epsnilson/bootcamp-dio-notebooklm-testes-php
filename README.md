@@ -231,19 +231,19 @@ Este projeto também reforçou a importância da aprendizagem ativa, na qual o e
 As fontes abaixo foram selecionadas por serem oficiais, amplamente utilizadas pela comunidade PHP e adequadas ao processo de aprendizagem realizado com o NotebookLM.
 
 1. **PHPUnit – Documentação Oficial**
-   https://phpunit.de/
+https://phpunit.de/
 
-2. **PHPUnit Documentation – Writing Tests for PHPUnit**
-   https://docs.phpunit.de/
+3. **PHPUnit Documentation – Writing Tests for PHPUnit**
+https://docs.phpunit.de/
 
-3. **Laravel Documentation – Testing**
-   https://laravel.com/docs/testing
+5. **Laravel Documentation – Testing**
+https://laravel.com/docs/testing
 
-4. **PHP: The Right Way**
-   https://phptherightway.com/
+7. **PHP: The Right Way**
+https://phptherightway.com/
 
-5. **Martin Fowler – Articles on Testing**
-   https://martinfowler.com/testing/
+9. **Martin Fowler – Articles on Testing**
+https://martinfowler.com/testing/
 
 Essas referências foram utilizadas como base para o processo de estudo, permitindo que o NotebookLM organizasse, resumisse e relacionasse os conteúdos durante a aprendizagem.
 
