@@ -226,7 +226,6 @@ Mais do que obter respostas rápidas, a experiência mostrou que o NotebookLM co
 Este projeto também reforçou a importância da aprendizagem ativa, na qual o estudante participa do processo formulando perguntas, refinando os prompts e consolidando o conhecimento por meio de resumos e reflexões.
 
 ---
-
 ## Referências
 
 As fontes abaixo foram selecionadas por serem oficiais, amplamente utilizadas pela comunidade PHP e adequadas ao processo de aprendizagem realizado com o NotebookLM.
